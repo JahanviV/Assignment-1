@@ -44,6 +44,7 @@ namespace Progra10
                 }
             }
 
+
             int[] commonElements = new int[commonCount];
             Array.Copy(common, commonElements, commonCount);
 
