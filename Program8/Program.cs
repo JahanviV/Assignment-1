@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program8
+namespace Program8 
 {
     internal class Program
     {
