@@ -22,7 +22,7 @@ namespace Program3
                 if (numbers[i] > largest)
                 {
                     largest = numbers[i];
-                }
+                } 
             }
 
             // Print the largest element
